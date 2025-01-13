@@ -1,1 +1,1 @@
-Welcome to the PopziNet server repository 🥳
+Welcome to the PopziNet server repositories 🥳
